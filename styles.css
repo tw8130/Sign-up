@@ -8,7 +8,7 @@
 #fname {
     width: 100%;
     box-sizing: border-box;
-    border: none;
+    border: 1px solid rgb(216, 212, 212);
     border-radius: 5px;
     outline: none;
     padding: 12px 20px;
@@ -19,7 +19,7 @@
 #email {
     width: 100%;
     box-sizing: border-box;
-    border: none;
+    border: 1px solid rgb(216, 212, 212);
     border-radius: 5px;
     outline: none;
     padding: 12px 20px;
@@ -30,7 +30,7 @@
 #password {
     width: 100%;
     box-sizing: border-box;
-    border: none;
+    border: 1px solid rgb(216, 212, 212);
     border-radius: 5px;
     outline: none;
     padding: 12px 20px;
