@@ -1,0 +1,68 @@
+.center {
+    margin: auto;
+    width: 57%;
+    border: 0.5px solid white;
+    padding: 15px;
+}
+
+#fname {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: rgb(232, 235, 232);
+}
+
+#email {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: rgb(232, 235, 232);
+}
+
+#password {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: rgb(232, 235, 232);
+}
+
+button {
+    background-color: rgb(179, 216, 194);
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    margin: 20px 10px;
+    border-radius: 10px;
+}
+
+#checkbox {
+    width: fit-content;
+}
+
+.center form h3 {
+    padding: 0px 200px 15px 15px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+.center form h5 {
+    padding: 5px 45px 1.5px 5px;
+    margin: 5px;
+    font-size: 15px;
+}
